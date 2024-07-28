@@ -1,0 +1,1 @@
+import Product from "../model/product.model.js";
