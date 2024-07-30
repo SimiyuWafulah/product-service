@@ -1,4 +1,4 @@
-import Product from './product.model.js'
+import Product from '../model/product.model.js'
 import Joi from 'joi'
 
 // Validation Schema
