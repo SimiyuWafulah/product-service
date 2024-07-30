@@ -231,11 +231,3 @@ JWT_SECRET=your_jwt_secret
       "message": "Product not found"
     }
     ```
-
-## Error Handling
-
-All endpoints provide appropriate HTTP status codes and error messages.
-
-## Logging
-
-The service logs important events and errors using `Winston` or `Morgan`.
